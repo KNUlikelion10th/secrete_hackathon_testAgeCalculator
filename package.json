@@ -1,0 +1,48 @@
+{
+  "name": "testing_taste_age",
+  "version": "1.0.0",
+  "description": "2022_KNU_LIKE_LION_SECRETTONE",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gd5097/testing_taste_age.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gd5097/testing_taste_age/issues"
+  },
+  "homepage": "https://github.com/gd5097/testing_taste_age#readme",
+  "dependencies": {
+    "@emotion/babel-plugin": "^11.10.5",
+    "@emotion/css": "^11.10.5",
+    "@emotion/react": "^11.10.5",
+    "app": "^0.1.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "layouts": "^3.0.2",
+    "node-sass": "^8.0.0",
+    "normalize.css": "^8.0.1",
+    "pages": "^0.0.16",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.6.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.7",
+    "@parcel/transformer-sass": "^2.8.2",
+    "events": "^3.3.0",
+    "parcel": "^2.8.2",
+    "path-browserify": "^1.0.1",
+    "process": "^0.11.10",
+    "punycode": "^1.4.1",
+    "querystring-es3": "^0.2.1",
+    "stream-http": "^3.2.0",
+    "url": "^0.11.0",
+    "util": "^0.12.5"
+  }
+}
